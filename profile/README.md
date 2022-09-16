@@ -1,11 +1,6 @@
-## Hi there 👋
+## Welcome to PyFaaS 👋
 
 ![Logo](https://user-images.githubusercontent.com/21079031/190562859-0b9164da-4e15-4cb7-b9b1-2cb54566973c.png)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ PyFaaS 是基于 Python 语言的 Serverless FaaS 平台。
